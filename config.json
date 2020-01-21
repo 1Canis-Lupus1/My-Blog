@@ -1,0 +1,16 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+mysqlconnector://{user}:{password}@{server}/{database}'.format(user='root',password='',server='localhost',database='myblog')",
+    "fb_url": "http://facebook.com/myblog",
+    "tw_url": "http://twitter.com/myblog",
+    "gt_url": "http://github.com/myblog",
+    "blog_tit": "MY_Blog",
+    "about_me": "My details go here",
+    "login_img": "images.png",
+    "user1": "Shubham",
+    "pass1": "pass@123",
+    "upload_loc": "C:\\Users\\t\\PycharmProjects\\Myblog"
+  }
+}

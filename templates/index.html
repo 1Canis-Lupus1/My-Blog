@@ -1,0 +1,88 @@
+{%extends "layout.html"%}
+{%block body%}
+ <!-- Page Header -->
+  <header class="masthead" style="background-image: url('{{url_for('static',filename='img/home-bg.jpg') }}')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>Blog made with FLASK</h1>
+            <span class="subheading">with use of Pycharm(python),Xampp and Sublime Text</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="post-preview">
+          <a href="post.html">
+            <h2 class="post-title">
+             1.Post Title Goes here
+            </h2>
+            <h3 class="post-subtitle">
+              Subtitle here
+            </h3>
+          </a>
+          <p class="post-meta">Posted by
+            <a href="#">{{params['blog_tit']}}</a></p>
+        </div>
+        <hr> 
+        <div class="post-preview">
+          <a href="post.html">
+            <h2 class="post-title">
+             2.Post Title Goes here
+            </h2>
+            <h3 class="post-subtitle">
+              Subtitle here
+            </h3>
+          </a>
+          <p class="post-meta">Posted by
+            <a href="#">{{params['blog_tit']}}</a></p>
+        </div>
+        <hr>
+        <div class="post-preview">
+          <a href="post.html">
+            <h2 class="post-title">
+             3.Post Title Goes here
+            </h2>
+            <h3 class="post-subtitle">
+              Subtitle here
+            </h3>
+          </a>
+          <p class="post-meta">Posted by
+            <a href="#">{{params['blog_tit']}}</a></p>
+        </div>
+        <hr>
+        <div class="post-preview">
+          <a href="post.html">
+            <h2 class="post-title">
+             4.Post Title Goes here
+            </h2>
+            <h3 class="post-subtitle">
+              Subtitle here
+            </h3>
+          </a>
+          <p class="post-meta">Posted by
+            <a href="#">{{params['blog_tit']}}</a></p>
+        </div>
+        <hr>
+        <h4>UPLOAD A FILE</h4>
+        <form action='/uploader' method="post" enctype="multipart/form-data"></form>
+        <input type="file" name="file1">
+        <button type="Submit">Submit</button>
+        <hr>
+        <!-- Pager -->
+
+        <div class="clearfix">
+          <a class="btn btn-primary float-left" href="#">Older Posts &rarr;</a>
+          <a class="btn btn-primary float-right" href="#">Newer Posts &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </div>
+{%endblock%}

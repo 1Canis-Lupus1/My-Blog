@@ -1,0 +1,35 @@
+{%extends "layout.html"%}
+{%block body%}
+ <!-- Page Header -->
+  <header class="masthead" style="background-image: url('{{url_for('static',filename='img/Login.jpg') }}')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>Admin Login</h1>
+            <span class="subheading">Modify,Add,Delete Posts</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="post-preview">
+            <h2 class="post-title">
+             Congrats! You are logged in!!
+            </h2>
+            <h3 class="post-subtitle">
+              Contents Visible Here
+            </h3>
+          <p class="post-meta">Posted by
+            <a href="#">{{params['blog_tit']}}</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+{%endblock%}
