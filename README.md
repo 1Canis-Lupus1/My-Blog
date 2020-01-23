@@ -18,3 +18,5 @@ Contents:
 
 
 6./venv :- earlier created a virtual environment(not used in this My-Blog)
+
+Login page:![login](login.jpg)
