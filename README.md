@@ -31,5 +31,6 @@ HERE ARE SNAPSHOTS OF My_Blog:
 
 5.My Journey:
 ![me1](https://user-images.githubusercontent.com/60129101/72984574-0a340d80-3e0a-11ea-90be-087be209ca07.JPG)
-
+![me2](https://user-images.githubusercontent.com/60129101/72984655-42d3e700-3e0a-11ea-8c20-eb475553356c.JPG)
+![me3](https://user-images.githubusercontent.com/60129101/72984665-47000480-3e0a-11ea-9e41-9d70cd1bb9a5.JPG)
 
