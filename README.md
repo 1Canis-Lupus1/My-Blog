@@ -26,6 +26,10 @@ HERE ARE SNAPSHOTS OF My_Blog:
 ![home1](https://user-images.githubusercontent.com/60129101/72984312-6cd8d980-3e09-11ea-8139-6aed4716a7a3.JPG)
 ![home2](https://user-images.githubusercontent.com/60129101/72984408-a3165900-3e09-11ea-8f0c-7a06c4b75381.JPG)
 
-4.About:
+4.About me:
 ![about](https://user-images.githubusercontent.com/60129101/72984497-d658e800-3e09-11ea-93d3-40912f8821ae.JPG)
+
+5.My Journey:
+![me1](https://user-images.githubusercontent.com/60129101/72984574-0a340d80-3e0a-11ea-90be-087be209ca07.JPG)
+
 
