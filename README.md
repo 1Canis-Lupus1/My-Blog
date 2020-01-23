@@ -21,3 +21,6 @@ HERE ARE SNAPSHOTS OF My_Blog:
 
 2.Dashboard:
 ![dashboard](https://user-images.githubusercontent.com/60129101/72984241-3b600e00-3e09-11ea-8a35-7f4f408a3a91.JPG)
+
+3.Home:
+![home1](https://user-images.githubusercontent.com/60129101/72984312-6cd8d980-3e09-11ea-8139-6aed4716a7a3.JPG)
