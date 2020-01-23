@@ -25,3 +25,7 @@ HERE ARE SNAPSHOTS OF My_Blog:
 3.Home:
 ![home1](https://user-images.githubusercontent.com/60129101/72984312-6cd8d980-3e09-11ea-8139-6aed4716a7a3.JPG)
 ![home2](https://user-images.githubusercontent.com/60129101/72984408-a3165900-3e09-11ea-8f0c-7a06c4b75381.JPG)
+
+4.About:
+![about](https://user-images.githubusercontent.com/60129101/72984497-d658e800-3e09-11ea-93d3-40912f8821ae.JPG)
+
