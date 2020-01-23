@@ -1,3 +1,4 @@
+
 {
   "params":
   {
@@ -7,7 +8,7 @@
     "tw_url": "http://twitter.com/myblog",
     "gt_url": "http://github.com/myblog",
     "blog_tit": "MY_Blog",
-    "about_me": "My details go here",
+    "about_me": "Hi, my name is Shubham Choudhary. I am currently pursuing my B.Tech from Bengaluru. This is my First real time project that I have created using Pyhton(Flask) scripting.",
     "login_img": "images.png",
     "user1": "Shubham",
     "pass1": "pass@123",
