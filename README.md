@@ -17,6 +17,6 @@ Contents:
 HERE ARE SNAPSHOTS OF My_Blog:
 
 1.Login:
-![login](https://user-images.githubusercontent.com/60129101/72983578-9ee93c00-3e07-11ea-98b4-d34b7ead7def.JPG)
+
 
 2.Dashboard:
