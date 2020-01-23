@@ -34,3 +34,8 @@ HERE ARE SNAPSHOTS OF My_Blog:
 ![me2](https://user-images.githubusercontent.com/60129101/72984655-42d3e700-3e0a-11ea-8c20-eb475553356c.JPG)
 ![me3](https://user-images.githubusercontent.com/60129101/72984665-47000480-3e0a-11ea-9e41-9d70cd1bb9a5.JPG)
 
+6.Contact:
+![contact1](https://user-images.githubusercontent.com/60129101/72984765-70b92b80-3e0a-11ea-9a6f-082984146dba.JPG)
+![contact2](https://user-images.githubusercontent.com/60129101/72984770-73b41c00-3e0a-11ea-9aaa-2e53bdf37782.JPG)
+
+
